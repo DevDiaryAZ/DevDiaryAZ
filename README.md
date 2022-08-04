@@ -3,6 +3,9 @@ I'm Front End developer!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDiaryAZ)](https://github.com/DevDiaryAZ/github-readme-stats)
 
+<!---Для компактной версии-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDiaryAZ&layout=compact)](https://github.com/DevDiaryAZ/github-readme-stats)
+
 <!--
 **DevDiaryAZ/DevDiaryAZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
